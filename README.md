@@ -1,6 +1,6 @@
 # math_functions
 
-## prime_check
+## primecheck.swift
 This extends the Int class in Swift, adding a new function isPrime.
 The function is called from the Int object after it has been intialized.
 
